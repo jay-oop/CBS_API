@@ -12,7 +12,7 @@
 
 
 #### Project
-Created a REST API for Management of Patient data in `registry.json`
+REST API for Management of Patient data in `registry.json`
 1. Create Patient (POST)
 2. Find Patient (GET)
 3. Update Patient (PUT)
