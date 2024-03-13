@@ -4,14 +4,14 @@
 3. Ensure you have express.js installed `npm install express`
 
 
-#### Steps
+#### Steps:
 1. Clone the repo
 2. Run server.js `node server.js`
 3. Open URL `http://localhost:8000/patient` in your preferred browser.
 4. If this does not work, please try to change to port `8080` or `3000` in the `server.js` file and the URL
 
 
-#### Project
+#### Project:
 REST API for Management of Patient data in `registry.json`
 1. Create Patient (POST)
 2. Find Patient (GET)
